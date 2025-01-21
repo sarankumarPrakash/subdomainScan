@@ -1,5 +1,6 @@
 {
   "name": "subdomain",
+  "author":'sarankumar-prakash',
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
