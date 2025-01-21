@@ -10,7 +10,7 @@
 To get started with Subscan, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Subscan.git
+git clone https://github.com/sarankumarPrakash/subdomainScan.git
 cd Subscan
 npm install
 ```
